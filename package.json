@@ -1,0 +1,19 @@
+{
+  "name": "background-color-generator",
+  "version": "1.0.0",
+  "description": "A background color generator made by using the DOM",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samwijayag/background-color-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samwijayag/background-color-generator/issues"
+  },
+  "homepage": "https://github.com/samwijayag/background-color-generator#readme"
+}
